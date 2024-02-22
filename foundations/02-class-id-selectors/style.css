@@ -1,12 +1,22 @@
 .headings {
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .odd-element {
     background-color: #ECC5C9;
 }
 
-.blue-text {
+.bigger {
+    font-size: 24px;
+}
+
+#blue-text {
     color: #0132EF;
     font-size: 36px;
+}
+
+#green-bg {
+    background-color: #C0F4B9;
+    font-size: 24px;
+    font-weight: bold;
 }
